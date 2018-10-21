@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-sass-starterkit",
+  "name": "react-redux-task",
   "version": "1.2.0",
-  "description": "Everything you need to get started with a basic React application",
+  "description": "Structure and Usage",
   "watch": true,
   "dependencies": {
     "@nivo/bar": "^0.50.0",
@@ -47,6 +47,6 @@
     "lint": "./node_modules/.bin/eslint ./src"
   },
   "precommit": "lint",
-  "author": "Santhosh Sundar",
-  "license": "MIT"
+  "author": "Darshan Kumar",
+  "license": "MIT/Apache"
 }
