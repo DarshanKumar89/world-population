@@ -22,7 +22,7 @@ All the required code (JS + Sass) goes inside the `src` folder. Webpack will com
 
 ```
 git clone
-cd React-Redux-Sass-Starter
+cd world-population
 npm i
 ```
 
